@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1,ITA- RAI DEPORTES
+http://tv.nousiptv.com:25462/Omy/1234/53777
+#EXTINF:-1,ITA- RAI 1
+http://tv.nousiptv.com:25462/Omy/1234/53778
+
+#EXTINF:-1,ITA - RAI ITALIANA
+http://tv.nousiptv.com:25462/Omy/1234/51883
+
 #EXTINF:-1 tvg-id="" tvg-name="------- Italian Serie A -------" tvg-logo="" group-title="Sports",------- Italian Serie A -------
 http://yeahiptv.vip:8080/eui45adn8e/mcpwg9omj/685496
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Serie A FHD IT" tvg-logo="" group-title="Sports",Sky Sport Serie A FHD IT
